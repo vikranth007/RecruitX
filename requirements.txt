@@ -1,0 +1,9 @@
+streamlit 
+langchain 
+langchain-groq 
+pydantic 
+PyPDF2 
+faiss-cpu
+fastembed
+python-dotenv 
+langchain-community
